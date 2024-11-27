@@ -1,4 +1,4 @@
- <strong>Package Overview: Analyzing Human Mobility Across Spatial Scales Using Network Science Methodology </strong>
+ <strong>Overview: Analyzing Human Mobility Across Spatial Scales Using Network Science Methodology </strong>
 
 This package provides the code and results for exploring and understanding human mobility patterns across different spatial scales using network science methodologies.
 
