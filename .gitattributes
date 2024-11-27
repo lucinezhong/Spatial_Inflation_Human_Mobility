@@ -1,2 +1,1 @@
-*.h linguist-language=Python
-*.cpp linguist-language=Python
+*.ipynb linguist-language=Python
