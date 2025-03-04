@@ -16,13 +16,14 @@
 
 <h3>2. Inflation_plot.ipynb</h3>
 <ul>
-    <li>Sample dataset</li>
+    <li>Sample dataset </li>
     <li>Sample Result</li>
 </ul>
 <p>To start:</p>
 <ul>
     <li>Run module_extract.py with the sample datasets</li>
     <li>Use Inflation_plot.ipynb to plot the results</li>
+    <li>***sample datset is not what we used in manuscript</li>
 </ul>
 
 <h2>Results</h2>: Include codes for generating manuscript figures
