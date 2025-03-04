@@ -25,7 +25,7 @@
     <li>Use Inflation_plot.ipynb to plot the results</li>
 </ul>
 
-<h2>Results</h2>
+<h2>Results</h2>: Include codes for generating manuscript figures
 <ul>
     <li>Part 1: Figures data statistics.ipynb</li>
     <li>Part 2: Figures inflation results.ipynb</li>
