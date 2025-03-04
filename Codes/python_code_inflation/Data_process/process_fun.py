@@ -19,7 +19,7 @@ def finding_home_locations(df_individual):
     :param df_individual:
     :return: home_label, home_lat, home_lon for individual
     '''
-    night_list = [20, 21, 22, 23, 24, 0, 1, 2, 3, 4, 5, 6, 7, 8]
+    night_list = [20, 21, 22, 23, 24, 0, 1, 2, 3, 4, 5, 6, 7, 8] #stay-home hours
     monthly_home = []
     ######home
     df_temp = df_individual[df_individual['start_h'].isin(night_list)]
